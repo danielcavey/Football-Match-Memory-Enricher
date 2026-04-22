@@ -1,47 +1,47 @@
-date,ground,home team,home score,away team,away score,goalscorer(s)
-2006-07-26,Murrayfield,Hearts,3,Siroki Brijeg,0,"['Branimir Arnic (og)', 'Ibrahim Tall', 'Roman Bednar']"
-2008-01-01,Old Trafford,Man United,1,Birmingham,0,['Carlos Tevez']
-2008-11-01,Old Trafford,Man United,4,Hull,3,"['Cristiano Ronaldo (x2)', 'Nemanja Vidic', 'Michael Carrick', 'Daniel Cousin', 'Bernard Mendy', 'Geovanni']"
-2008-11-19,Windsor Park,NI,0,Hungary,2,"['Sandor Torghelle', 'Zoltan Gera']"
-2010-10-30,Camp Nou,Barcelona,5,Sevilla,0,"['Lionel Messi (x2)', 'David Villa (x2)', 'Dani Alves']"
-2012-02-29,Windsor Park,NI,0,Norway,3,"['Harvard Nordtveit', 'Tarik Elyounoussi', 'Espen Ruud']"
-2012-08-04,Portman Road,Ipswich,3,West Ham,1,"['Michael Chopra', 'Luke Chambers', 'Jason Scotland', 'Matt Taylor']"
-2012-08-08,Old Trafford,Brazil,3,South Korea,0,"['Romulo', 'Leandro Damiao (x2)']"
-2016-01-19,Villa Park,Aston Villa,2,Wycombe,0,"['Cieran Clark', 'Idrissa Gana Gueye']"
-2016-03-28,Windsor Park,NI,1,Slovenia,0,['Conor Washington']
-2017-05-11,Old Trafford,Man United,1,Celta Vigo,1,"['Marounne Fellaini', 'Facundo Roncaglia']"
-2017-09-30,One Call Stadium,Mansfield,3,Notts County,1,"['Danny Rose (x2)', 'Richard Duffy (og)', 'Carl Dickinson']"
-2017-10-28,Wanda Metropolitano,Atletico Madrid,1,Villareal,1,"['Angel Correa', 'Carlos Bacca']"
-2017-11-25,Meadow Lane,Notts County,2,Colchester,1,"['Shola Ameobi', 'Ryan Yates', 'Sanmu Odelusi']"
-2017-12-14,Old Trafford,Man United,1,Bournemouth,0,['Romelu Lukaku']
-2018-07-28,Panasonic Stadium,Gamba Osaka,1,Kashima Antlers,1,"['Koki Yonekura', 'Koki Machido']"
-2018-08-11,City Ground,Nottingham Forest,1,Reading,0,['Hilal Soudani']
-2019-10-10,Old Trafford,Man United,3,Brighton,1,"['Andreas Pereira', 'Scott McTominay', 'Lewis Dunk', 'Marcus Rashford']"
-2019-12-01,Old Trafford,Man United,2,Aston Villa,2,"['Jack Grealish', 'Tom Heaton (og)', 'Victor Lindelof', 'Tyrone Mings']"
-2019-12-14,King Power Stadium,Leicester,1,Norwich,1,"['Teemu Pukki', 'Tim Krul (og)']"
-2020-02-24,Old Trafford,Man United,3,Watford,0,"['Bruno Fernandes', 'Antony Martial', 'Mason Greenwood']"
-2021-12-11,Carrow Road,Norwich,0,Man United,1,['Cristiano Ronaldo']
-2022-02-05,Molineax,Wolves,0,Norwich,1,['Kenny McLean']
-2022-04-30,Villa Park,Aston Villa,2,Norwich,0,"['Ollie Watkins', 'Danny Ings']"
-2022-05-15,Molineax,Wolves,1,Norwich,1,"['Teemu Pukki', 'Rayan Ait-Nouri']"
-2022-11-11,Old Trafford,Man United,4,Aston Villa,2,"['Ollie Watkins', 'Antony Martial', 'Diogo Dalot (og)', 'Marcus Rashford', 'Bruno Fernandes', 'Scott McTominay']"
-2023-04-29,Hawthorns,West Brown,2,Norwich,1,"['Josh Sargent', 'Connor Townsend', 'Jed Wallace']"
-2023-09-03,Emirates Stadium,Arsenal,3,Man United,1,"['Marcus Rashford', 'Martin Odegaard', 'Declan Rice', 'Gabriel Jesus']"
-2024-02-11,Olympic Stadium,West Ham,0,Arsenal,6,"['William Saliba', 'Bakayo Saka (x2)', 'Gabriel', 'Leandro Trossard', 'Declan Rice']"
-2024-04-01,Cledara Abbey Stadium,Cambridge,3,Wigan,1,"['Gassan Ahadme (x2)', 'Danny Andrew', 'Martial Godo']"
-2024-04-04,Stamford Bridge,Chelsea,4,Man United,3,"['Connor Gallagher', 'Cole Palmer (x3)', 'Alejandro Garnacho (x2)', 'Bruno Fernandes']"
-2024-04-23,Cledara Abbey Stadium,Cambridge,1,Wycombe,1,"['Gassan Ahadme', 'Luke Leahy']"
-2024-08-17,Cledara Abbey Stadium,Cambridge,0,Crawley,1,['Ade Adeyamo']
-2024-09-24,Stamford Bridge,Chelsea,5,Barrow,0,"['Christopher Nkunku (x3)', 'Pedro Neto', 'Paul Farman (og)']"
-2024-10-26,Cledara Abbey Stadium,Cambridge,1,Burton,0,['Jordan Cousins']
-2024-11-26,Cledara Abbey Stadium,Cambridge,1,Bolton,1,"['Aaron Collins', 'Sulley Kaikai']"
-2025-01-25,Cledara Abbey Stadium,Cambridge,3,Mansfield,2,"['Michael Morrison', 'Josh Stokes', 'Ryan Loft', 'George Maris', 'Lee Gregory']"
-2025-03-04,Cledara Abbey Stadium,Cambridge,0,Stevenage,1,['Jamie Reid']
-2025-03-15,Cledara Abbey Stadium,Cambridge,0,Peterborough,1,['Tayo Edun']
-2025-04-21,Cledara Abbey Stadium,Cambridge,1,Leyton Orient,2,"['Josh Stokes', 'Charlie Kelman', 'Jamie Donley']"
-2025-08-02,Cledara Abbey Stadium,Cambridge,1,Cheltenham,0,['Louis Appere']
-2025-08-30,Cledara Abbey Stadium,Cambridge,2,Newport,0,"['Kell Watts', 'James Brophy']"
-2025-10-25,Old Trafford,Man United,4,Brighton,2,"['Matheus Cunha', 'Casemiro', 'Bryan Mbeumo (x2)', 'Danny Welbeck', 'Charalampos Kostoulas']"
-2025-12-15,Old Trafford,Man United,4,Bournemouth,4,"['Amad Diallo', 'Antoine Semenyo', 'Casemiro', 'Evanilson', 'Marcus Tavenier', 'Bruno Fernandes', 'Matheus Cunha', 'Eli Kroupi Junior']"
-2026-03-21,Cledara Abbey Stadium,Cambridge,1,Salford,0,['James Gibbons']
-2026-04-02,Cledara Abbey Stadium,Cambridge,1,Swindon,1,"['Ben Knight', 'Joel McGregor']"
+match_id,date,ground,home team,home score,away team,away score,goalscorer(s)
+1,2006-07-26,Murrayfield,Hearts,3,Siroki Brijeg,0,"['Branimir Arnic (og)', 'Ibrahim Tall', 'Roman Bednar']"
+2,2008-01-01,Old Trafford,Man United,1,Birmingham,0,['Carlos Tevez']
+3,2008-11-01,Old Trafford,Man United,4,Hull,3,"['Cristiano Ronaldo (x2)', 'Nemanja Vidic', 'Michael Carrick', 'Daniel Cousin', 'Bernard Mendy', 'Geovanni']"
+4,2008-11-19,Windsor Park,NI,0,Hungary,2,"['Sandor Torghelle', 'Zoltan Gera']"
+5,2010-10-30,Camp Nou,Barcelona,5,Sevilla,0,"['Lionel Messi (x2)', 'David Villa (x2)', 'Dani Alves']"
+6,2012-02-29,Windsor Park,NI,0,Norway,3,"['Harvard Nordtveit', 'Tarik Elyounoussi', 'Espen Ruud']"
+7,2012-08-04,Portman Road,Ipswich,3,West Ham,1,"['Michael Chopra', 'Luke Chambers', 'Jason Scotland', 'Matt Taylor']"
+8,2012-08-08,Old Trafford,Brazil,3,South Korea,0,"['Romulo', 'Leandro Damiao (x2)']"
+9,2016-01-19,Villa Park,Aston Villa,2,Wycombe,0,"['Cieran Clark', 'Idrissa Gana Gueye']"
+10,2016-03-28,Windsor Park,NI,1,Slovenia,0,['Conor Washington']
+11,2017-05-11,Old Trafford,Man United,1,Celta Vigo,1,"['Marounne Fellaini', 'Facundo Roncaglia']"
+12,2017-09-30,One Call Stadium,Mansfield,3,Notts County,1,"['Danny Rose (x2)', 'Richard Duffy (og)', 'Carl Dickinson']"
+13,2017-10-28,Wanda Metropolitano,Atletico Madrid,1,Villareal,1,"['Angel Correa', 'Carlos Bacca']"
+14,2017-11-25,Meadow Lane,Notts County,2,Colchester,1,"['Shola Ameobi', 'Ryan Yates', 'Sanmu Odelusi']"
+15,2017-12-14,Old Trafford,Man United,1,Bournemouth,0,['Romelu Lukaku']
+16,2018-07-28,Panasonic Stadium,Gamba Osaka,1,Kashima Antlers,1,"['Koki Yonekura', 'Koki Machido']"
+17,2018-08-11,City Ground,Nottingham Forest,1,Reading,0,['Hilal Soudani']
+18,2019-10-10,Old Trafford,Man United,3,Brighton,1,"['Andreas Pereira', 'Scott McTominay', 'Lewis Dunk', 'Marcus Rashford']"
+19,2019-12-01,Old Trafford,Man United,2,Aston Villa,2,"['Jack Grealish', 'Tom Heaton (og)', 'Victor Lindelof', 'Tyrone Mings']"
+20,2019-12-14,King Power Stadium,Leicester,1,Norwich,1,"['Teemu Pukki', 'Tim Krul (og)']"
+21,2020-02-24,Old Trafford,Man United,3,Watford,0,"['Bruno Fernandes', 'Antony Martial', 'Mason Greenwood']"
+22,2021-12-11,Carrow Road,Norwich,0,Man United,1,['Cristiano Ronaldo']
+23,2022-02-05,Molineax,Wolves,0,Norwich,1,['Kenny McLean']
+24,2022-04-30,Villa Park,Aston Villa,2,Norwich,0,"['Ollie Watkins', 'Danny Ings']"
+25,2022-05-15,Molineax,Wolves,1,Norwich,1,"['Teemu Pukki', 'Rayan Ait-Nouri']"
+26,2022-11-11,Old Trafford,Man United,4,Aston Villa,2,"['Ollie Watkins', 'Antony Martial', 'Diogo Dalot (og)', 'Marcus Rashford', 'Bruno Fernandes', 'Scott McTominay']"
+27,2023-04-29,Hawthorns,West Brown,2,Norwich,1,"['Josh Sargent', 'Connor Townsend', 'Jed Wallace']"
+28,2023-09-03,Emirates Stadium,Arsenal,3,Man United,1,"['Marcus Rashford', 'Martin Odegaard', 'Declan Rice', 'Gabriel Jesus']"
+29,2024-02-11,Olympic Stadium,West Ham,0,Arsenal,6,"['William Saliba', 'Bakayo Saka (x2)', 'Gabriel', 'Leandro Trossard', 'Declan Rice']"
+30,2024-04-01,Cledara Abbey Stadium,Cambridge,3,Wigan,1,"['Gassan Ahadme (x2)', 'Danny Andrew', 'Martial Godo']"
+31,2024-04-04,Stamford Bridge,Chelsea,4,Man United,3,"['Connor Gallagher', 'Cole Palmer (x3)', 'Alejandro Garnacho (x2)', 'Bruno Fernandes']"
+32,2024-04-23,Cledara Abbey Stadium,Cambridge,1,Wycombe,1,"['Gassan Ahadme', 'Luke Leahy']"
+33,2024-08-17,Cledara Abbey Stadium,Cambridge,0,Crawley,1,['Ade Adeyamo']
+34,2024-09-24,Stamford Bridge,Chelsea,5,Barrow,0,"['Christopher Nkunku (x3)', 'Pedro Neto', 'Paul Farman (og)']"
+35,2024-10-26,Cledara Abbey Stadium,Cambridge,1,Burton,0,['Jordan Cousins']
+36,2024-11-26,Cledara Abbey Stadium,Cambridge,1,Bolton,1,"['Aaron Collins', 'Sulley Kaikai']"
+37,2025-01-25,Cledara Abbey Stadium,Cambridge,3,Mansfield,2,"['Michael Morrison', 'Josh Stokes', 'Ryan Loft', 'George Maris', 'Lee Gregory']"
+38,2025-03-04,Cledara Abbey Stadium,Cambridge,0,Stevenage,1,['Jamie Reid']
+39,2025-03-15,Cledara Abbey Stadium,Cambridge,0,Peterborough,1,['Tayo Edun']
+40,2025-04-21,Cledara Abbey Stadium,Cambridge,1,Leyton Orient,2,"['Josh Stokes', 'Charlie Kelman', 'Jamie Donley']"
+41,2025-08-02,Cledara Abbey Stadium,Cambridge,1,Cheltenham,0,['Louis Appere']
+42,2025-08-30,Cledara Abbey Stadium,Cambridge,2,Newport,0,"['Kell Watts', 'James Brophy']"
+43,2025-10-25,Old Trafford,Man United,4,Brighton,2,"['Matheus Cunha', 'Casemiro', 'Bryan Mbeumo (x2)', 'Danny Welbeck', 'Charalampos Kostoulas']"
+44,2025-12-15,Old Trafford,Man United,4,Bournemouth,4,"['Amad Diallo', 'Antoine Semenyo', 'Casemiro', 'Evanilson', 'Marcus Tavenier', 'Bruno Fernandes', 'Matheus Cunha', 'Eli Kroupi Junior']"
+45,2026-03-21,Cledara Abbey Stadium,Cambridge,1,Salford,0,['James Gibbons']
+46,2026-04-02,Cledara Abbey Stadium,Cambridge,1,Swindon,1,"['Ben Knight', 'Joel McGregor']"

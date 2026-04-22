@@ -36,7 +36,7 @@ df = df.drop('score', axis=1)
 # Almost all features default to the first instance of the match_id. This is okay since they are the same
 # Exception is the goalscorers which are concatenated into a list
 # Order of the columns is determined by the way they are listed here
-grouped = df.groupby('match_id')
+grouped = df.groupby('match_id', as_index=False)
 clean_df = grouped.agg({
     'date': 'first',
     'ground': 'first',
