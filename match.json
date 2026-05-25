@@ -1,13 +1,13 @@
 {
-    "key_events": [
+    "goals": [
         {
             "minute": "25",
-            "event_type": "goal",
             "player": "Tevez",
             "team": "Manchester United"
         }
     ],
-    "home manager": "Sir Alex Ferguson",
-    "away manager": "Alex McLeish",
-    "man of the match": "Manchester United's Carlo"
+    "red cards": [],
+    "home manager": "Alex McLeish",
+    "away manager": "Sir Alex Ferguson",
+    "man of the match": "Carlos Tevez"
 }
