@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Read in dataset
-df = pd.read_excel("Live Football matches record raw.xlsx")
+df = pd.read_excel("../data/Live Football matches record raw.xlsx")
 
 # Preprocessing written in functions so they can unit tested
 
@@ -64,4 +64,4 @@ for func in [clean_columns_names, add_match_id, forward_fill, split_teams, split
     df = func(df)
 
 # Save the new cleaned dataset into a new file
-df.to_csv("clean_matches.csv", index=False)
+df.to_csv("../data/clean_matches.csv", index=False)

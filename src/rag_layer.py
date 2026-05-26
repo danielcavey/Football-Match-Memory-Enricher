@@ -5,7 +5,7 @@ import requests
 import json
 
 # Read in dataset from articles dataset
-df = pd.read_csv("articles.csv")
+df = pd.read_csv("../data/articles.csv")
 
 # Function to extracts the text from the relevant articles in the dataset for a match
 
@@ -118,5 +118,5 @@ print(output)
 # Saves output from LLM query into a json file
 
 new_data = json.loads(output)
-with open("match.json","w") as f:
+with open("../data/match.json","w") as f:
     json.dump(new_data,f,indent=4)          # indent=4 means each indentation level in the json file is presented with 4 spaces for readibility
