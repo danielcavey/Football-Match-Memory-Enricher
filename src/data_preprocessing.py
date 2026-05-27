@@ -1,7 +1,8 @@
 import pandas as pd
 
 # Read in dataset
-df = pd.read_excel("../data/Live Football matches record raw.xlsx")
+def load_data(path):
+    return pd.read_excel(path)
 
 # Preprocessing written in functions so they can unit tested
 
@@ -59,9 +60,14 @@ def group_matches(df):
     })
     return df
 
-# Apply all preprocessing functions above
-for func in [clean_columns_names, add_match_id, forward_fill, split_teams, split_scores, group_matches]:
-    df = func(df)
+# Code chunk to execute the preprocessing functions in this file
+# Will only run if this Python file is run directly (__name__ equal "__main__")
+# Will not run if run from Project folder as part of a pytest
 
-# Save the new cleaned dataset into a new file
-df.to_csv("../data/clean_matches.csv", index=False)
+if __name__ == "__main__":
+    df = load_data("../data/Live Football matches record raw.xlsx")
+    # Apply all preprocessing functions above
+    for func in [clean_columns_names, add_match_id, forward_fill, split_teams, split_scores, group_matches]:
+        df = func(df)
+        # Save the new cleaned dataset into a new file
+    df.to_csv("../data/clean_matches.csv", index=False)
