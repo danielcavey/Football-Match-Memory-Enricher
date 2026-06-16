@@ -1,14 +1,91 @@
-{
-    "goals": [
-        {
-            "minute": "25",
-            "player": "Tevez",
-            "team": "Manchester United"
-        }
-    ],
-    "red cards": [],
-    "home manager": "alex McLeish",
-    "away manager": "Sir Alex Ferguson",
-    "man of the match": "Carlos Tevez",
-    "stadium": ""
-}
+[
+    {
+        "goals": [
+            {
+                "minute": "",
+                "player": "Bryan Mbeumo",
+                "team": "Manchester United"
+            },
+            {
+                "minute": "",
+                "player": "",
+                "team": ""
+            },
+            {
+                "minute": "",
+                "player": "",
+                "team": ""
+            },
+            {
+                "minute": "",
+                "player": "",
+                "team": ""
+            }
+        ],
+        "red cards": [
+            {
+                "minute": "",
+                "player": "",
+                "team": ""
+            },
+            {
+                "minute": "",
+                "player": "",
+                "team": ""
+            },
+            {
+                "minute": "",
+                "player": "",
+                "team": ""
+            }
+        ],
+        "home manager": "",
+        "away manager": "",
+        "man of the match": "",
+        "stadium": ""
+    },
+    {
+        "goals": [
+            {
+                "minute": "",
+                "player": "Diallo",
+                "team": "Man Utd"
+            },
+            {
+                "minute": "",
+                "player": "Semenyo",
+                "team": "Bournemouth"
+            },
+            {
+                "minute": "",
+                "player": "Casemiro",
+                "team": "Man Utd"
+            },
+            {
+                "minute": "",
+                "player": "Tavernier",
+                "team": "Bournemouth"
+            },
+            {
+                "minute": "",
+                "player": "Fernandes",
+                "team": "Man Utd"
+            },
+            {
+                "minute": "",
+                "player": "Cunha",
+                "team": "Man Utd"
+            },
+            {
+                "minute": "",
+                "player": "Kroupi",
+                "team": "Bournemouth"
+            }
+        ],
+        "red cards": [],
+        "home manager": "Ruben Amorim",
+        "away manager": "Andoni Iraola",
+        "man of the match": "",
+        "stadium": ""
+    }
+]
