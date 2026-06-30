@@ -1,84 +1,89 @@
 [
     {
+        "home team": "Manchester United",
+        "away team": "Brighton",
+        "score": "4-2",
         "goals": [
             {
-                "minute": "",
+                "minute": "24",
+                "player": "Matheus Cunha",
+                "team": "Manchester United"
+            },
+            {
+                "minute": "34",
+                "player": "Casemiro",
+                "team": "Manchester United"
+            },
+            {
+                "minute": "61",
                 "player": "Bryan Mbeumo",
                 "team": "Manchester United"
             },
             {
-                "minute": "",
-                "player": "",
-                "team": ""
+                "minute": "96",
+                "player": "Bryan Mbeumo",
+                "team": "Manchester United"
             },
             {
-                "minute": "",
-                "player": "",
-                "team": ""
+                "minute": "74",
+                "player": "Danny Welbeck",
+                "team": "Brighton"
             },
             {
-                "minute": "",
-                "player": "",
-                "team": ""
+                "minute": "96",
+                "player": "Charalampos Kostoulas",
+                "team": "Brighton"
             }
         ],
-        "red cards": [
-            {
-                "minute": "",
-                "player": "",
-                "team": ""
-            },
-            {
-                "minute": "",
-                "player": "",
-                "team": ""
-            },
-            {
-                "minute": "",
-                "player": "",
-                "team": ""
-            }
-        ],
-        "home manager": "",
-        "away manager": "",
+        "red cards": [],
+        "home manager": "Ruben Amorim",
+        "away manager": "Fabian Hurzeler",
         "man of the match": "",
-        "stadium": ""
+        "stadium": "Old Trafford"
     },
     {
+        "home team": "Manchester United",
+        "away team": "Bournemouth",
+        "score": "4-4",
         "goals": [
             {
-                "minute": "",
-                "player": "Diallo",
-                "team": "Man Utd"
-            },
-            {
-                "minute": "",
+                "minute": "13",
                 "player": "Semenyo",
                 "team": "Bournemouth"
             },
             {
-                "minute": "",
-                "player": "Casemiro",
-                "team": "Man Utd"
+                "minute": "40",
+                "player": "Bruno Fernandes",
+                "team": "Manchester United"
             },
             {
-                "minute": "",
-                "player": "Tavernier",
+                "minute": "44",
+                "player": "Matheus Cunha",
+                "team": "Manchester United"
+            },
+            {
+                "minute": "45+1",
+                "player": "Eli Junior Kroupi",
                 "team": "Bournemouth"
             },
             {
-                "minute": "",
-                "player": "Fernandes",
-                "team": "Man Utd"
+                "minute": "46",
+                "player": "Evanilson",
+                "team": "Bournemouth"
             },
             {
-                "minute": "",
-                "player": "Cunha",
-                "team": "Man Utd"
+                "minute": "48",
+                "player": "Marcus Tavernier",
+                "team": "Bournemouth"
             },
             {
-                "minute": "",
-                "player": "Kroupi",
+                "minute": "77",
+                "player": "Bruno Fernandes",
+                "team": "Manchester United"
+            },
+            {
+                "minute": "84",
+                "player": "Eli Junior Kroupi",
                 "team": "Bournemouth"
             }
         ],
@@ -86,6 +91,6 @@
         "home manager": "Ruben Amorim",
         "away manager": "Andoni Iraola",
         "man of the match": "",
-        "stadium": ""
+        "stadium": "Old Trafford"
     }
 ]

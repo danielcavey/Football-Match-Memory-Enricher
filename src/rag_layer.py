@@ -23,7 +23,7 @@ def build_context(match_articles):
 
 def build_query(context):
     return f"""
-    You are a strict information extraction system.
+    You are a strict information extraction system. You will return ONLY the valid JSON. Do NOT add commentary around the JSON file.
 
     TASK:
     Extract structured football match events from the text.
@@ -38,6 +38,9 @@ def build_query(context):
 
     OUTPUT FORMAT (must match exactly):
     {{
+        "home team": ""
+        "home team": ""
+        "score": ""
         "goals": [
             {{
                 "minute": "",
@@ -108,12 +111,13 @@ def extract_match_info(query):
     
 # Composes the preceeding functions to generate required summary for the sample match
 
-match_id = 2
-match_articles = get_match_articles(match_id)
-context = build_context(match_articles)
-query = build_query(context)
-output = extract_match_info(query)
-print(output)
+output = []
+for match_id,group in df.groupby("match_id"):
+    match_articles = get_match_articles(row["match_id"])
+    context = build_context(match_articles)
+    query = build_query(context)
+    LLM_ouput = extract_match_info(query)
+    output.append(json.loads(LLM_ouput))
 
 # Saves output from LLM query into a json file
 
