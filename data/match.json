@@ -1,96 +1,110 @@
 [
     {
-        "home team": "Manchester United",
-        "away team": "Brighton",
-        "score": "4-2",
+        "Home team": "Man United",
+        "Away team": "Brighton",
+        "Final score": "4-2",
+        "Ground": "Old Trafford",
         "goals": [
             {
-                "minute": "24",
+                "minute": "24th",
                 "player": "Matheus Cunha",
-                "team": "Manchester United"
+                "team": "Man United",
+                "evidence": "Cunha kept his cool after some battling play, taking a touch on the edge of the box and sending a precise right-footed effort beyond Bart Verbruggen."
             },
             {
-                "minute": "34",
+                "minute": "34th",
                 "player": "Casemiro",
-                "team": "Manchester United"
+                "team": "Man United",
+                "evidence": "Casemiro, whose long-range strike hit Yasin Ayari and wrongfooted Verbruggen."
             },
             {
-                "minute": "61",
+                "minute": "61st",
                 "player": "Bryan Mbeumo",
-                "team": "Manchester United"
+                "team": "Man United",
+                "evidence": "Mbeumo, who squeezed a low shot through Dunk's legs and past Verbruggen at his near post in front of the Stretford End in the 61st minute."
             },
             {
-                "minute": "96",
-                "player": "Bryan Mbeumo",
-                "team": "Manchester United"
-            },
-            {
-                "minute": "74",
+                "minute": "74th",
                 "player": "Danny Welbeck",
-                "team": "Brighton"
+                "team": "Brighton",
+                "evidence": "Welbeck's free-kick and teenage substitute Charalampos Kostoulas' stoppage-time header had the hosts wobbling."
             },
             {
-                "minute": "96",
+                "minute": "90+6th",
+                "player": "Bryan Mbeumo",
+                "team": "Man United",
+                "evidence": "Mbeumo smashed home his second."
+            },
+            {
+                "minute": "90+3rd",
                 "player": "Charalampos Kostoulas",
-                "team": "Brighton"
+                "team": "Brighton",
+                "evidence": "Kostoulas reducing the deficit in stoppage time as he glanced home a James Milner corner."
             }
         ],
-        "red cards": [],
-        "home manager": "Ruben Amorim",
-        "away manager": "Fabian Hurzeler",
-        "man of the match": "",
-        "stadium": "Old Trafford"
+        "red_cards": [],
+        "home_manager": "Ruben Amorim",
+        "home_manager_evidence": "Ruben Amorim's side seem to be one of contrasting fortunes as a torrid start to this season has made way for a particularly productive recent period.",
+        "away_manager": "Fabian Hurzeler",
+        "away_manager_evidence": "Brighton boss Fabian Hurzeler complained former United striker Welbeck was shoved when shooting by Fernandes.",
+        "man_of_the_match": "Bryan Mbeumo",
+        "man_of_the_match_evidence": "A Ruben Amorim pirouette and revolving fist-pump greeted Bryan Mbeumo putting Manchester United 3-0 up."
     },
     {
-        "home team": "Manchester United",
-        "away team": "Bournemouth",
-        "score": "4-4",
+        "Home team": "Man United",
+        "Away team": "Bournemouth",
+        "Final score": "4-4",
+        "Ground": "Old Trafford",
         "goals": [
             {
                 "minute": "13",
-                "player": "Semenyo",
-                "team": "Bournemouth"
+                "player": "Amad Diallo",
+                "team": "Man United",
+                "evidence": "Amad did not track back as often and when he did, the Ivory Coast man...tucked inside Leny Yoro."
             },
             {
                 "minute": "40",
+                "player": "Casemiro",
+                "team": "Man United",
+                "evidence": "the former Chelsea man palmed Casemiro's tame first-half header into his goal."
+            },
+            {
+                "minute": "75",
                 "player": "Bruno Fernandes",
-                "team": "Manchester United"
-            },
-            {
-                "minute": "44",
-                "player": "Matheus Cunha",
-                "team": "Manchester United"
-            },
-            {
-                "minute": "45+1",
-                "player": "Eli Junior Kroupi",
-                "team": "Bournemouth"
-            },
-            {
-                "minute": "46",
-                "player": "Evanilson",
-                "team": "Bournemouth"
-            },
-            {
-                "minute": "48",
-                "player": "Marcus Tavernier",
-                "team": "Bournemouth"
+                "team": "Man United",
+                "evidence": "Bruno Fernandes following Tavernier's lead by curling his own free-kick home for the equaliser."
             },
             {
                 "minute": "77",
-                "player": "Bruno Fernandes",
-                "team": "Manchester United"
+                "player": "Matheus Cunha",
+                "team": "Man United",
+                "evidence": "Cunha provided it with a calm finish."
+            },
+            {
+                "minute": "82",
+                "player": "Evanilson",
+                "team": "Bournemouth",
+                "evidence": "a killer Tavernier pass that split the youngsters, and a cool Evanilson finish."
             },
             {
                 "minute": "84",
+                "player": "Marcus Tavernier",
+                "team": "Bournemouth",
+                "evidence": "Tavernier then exploited some weak goalkeeping from Lammens to put Bournemouth in front."
+            },
+            {
+                "minute": "90",
                 "player": "Eli Junior Kroupi",
-                "team": "Bournemouth"
+                "team": "Bournemouth",
+                "evidence": "Kroupi's final flourish ensured they exceeded their previous scoring efforts here."
             }
         ],
-        "red cards": [],
-        "home manager": "Ruben Amorim",
-        "away manager": "Andoni Iraola",
-        "man of the match": "",
-        "stadium": "Old Trafford"
+        "red_cards": [],
+        "home_manager": "Ruben Amorim",
+        "home_manager_evidence": "Amorim claimed he does not need to bolster the defensive ranks so the onus is on him to improve the current ones.",
+        "away_manager": "Andoni Iraola",
+        "away_manager_evidence": "Andoni Iraola said: 'Its a twisted knee \u2013 we have to see.'",
+        "man_of_the_match": "Bruno Fernandes",
+        "man_of_the_match_evidence": "Bruno Fernandes has been involved in eight goals in his last eight Premier League games."
     }
 ]
