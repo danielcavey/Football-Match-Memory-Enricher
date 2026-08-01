@@ -1,45 +1,691 @@
 [
     {
         "Home team": "Man United",
+        "Away team": "Birmingham",
+        "Final score": "1-0",
+        "Ground": "Old Trafford",
+        "goals": [
+            {
+                "minute": "25",
+                "player": "Carlos Tevez",
+                "team": "Man United",
+                "evidence": "Tevez scored the only goal as Manchester United secured a narrow victory... Tevez... calmly slotted home the winner on 25 minutes."
+            }
+        ],
+        "red_cards": [],
+        "home_manager": "Sir Alex Ferguson",
+        "home_manager_evidence": "United manager Sir Alex Ferguson, sat in the stands to serve out his two-match touchline ban...",
+        "away_manager": "Alex McLeish",
+        "away_manager_evidence": "Birmingham boss Alex McLeish - once a protege of Ferguson in their days together at Aberdeen...",
+        "man_of_the_match": "Carlos Tevez",
+        "man_of_the_match_evidence": "BBC Sport Player Rater man of the match: Manchester United's Carlos Tevez 8.15"
+    },
+    {
+        "Home team": "Man United",
+        "Away team": "Hull",
+        "Final score": "4-3",
+        "Ground": "Old Trafford",
+        "goals": [
+            {
+                "minute": "3",
+                "player": "Cristiano Ronaldo",
+                "team": "Man United",
+                "evidence": "Ronaldo picked out a team-mate despite looking in the other direction."
+            },
+            {
+                "minute": "29",
+                "player": "Michael Carrick",
+                "team": "Man United",
+                "evidence": "Carrick, whose precise low strike with his left foot also went in off the post."
+            },
+            {
+                "minute": "44",
+                "player": "Cristiano Ronaldo",
+                "team": "Man United",
+                "evidence": "Ronaldo headed the third from Nani's corner."
+            },
+            {
+                "minute": "57",
+                "player": "Nemanja Vidic",
+                "team": "Man United",
+                "evidence": "Vidic low down and he guided the ball past Myhill."
+            },
+            {
+                "minute": "75",
+                "player": "Bernard Mendy",
+                "team": "Hull",
+                "evidence": "Substitute Mendy brilliantly lobbed the ball over the advancing Van der Sar."
+            },
+            {
+                "minute": "90",
+                "player": "Geovanni",
+                "team": "Hull",
+                "evidence": "Geovanni made no mistake from the spot."
+            }
+        ],
+        "red_cards": [],
+        "home_manager": "Sir Alex Ferguson",
+        "home_manager_evidence": "Phelan hails 'fantastic' game",
+        "away_manager": "Phil Brown",
+        "away_manager_evidence": "We gave Man Utd too much respect - Brown",
+        "man_of_the_match": "Cristiano Ronaldo",
+        "man_of_the_match_evidence": "Ronaldo has scored twice in each of his last two games."
+    },
+    {
+        "Home team": "Aston Villa",
+        "Away team": "Wycombe",
+        "Final score": "2-0",
+        "Ground": "Villa Park",
+        "goals": [
+            {
+                "minute": "75'",
+                "player": "Ciaran Clark",
+                "team": "Aston Villa",
+                "evidence": "Ciaran Clark opened the scoring for Villa when he headed in an Ashley Westwood cross."
+            },
+            {
+                "minute": "90'",
+                "player": "Idrissa Gueye",
+                "team": "Aston Villa",
+                "evidence": "Idrissa Gueye guided in a second to ensure the hosts progressed."
+            }
+        ],
+        "red_cards": [],
+        "home_manager": "Remi Garde",
+        "home_manager_evidence": "Aston Villa manager Remi Garde: \"The most important thing was to win and go through. We've been professional.\"",
+        "away_manager": "Gareth Ainsworth",
+        "away_manager_evidence": "Wycombe boss Gareth Ainsworth: \"We've got players who are destined for bigger things and, when they put in a performance like that, it makes me a proud man.\"",
+        "man_of_the_match": "",
+        "man_of_the_match_evidence": ""
+    },
+    {
+        "Home team": "Man United",
+        "Away team": "Celta Vigo",
+        "Final score": "1-1",
+        "Ground": "Old Trafford",
+        "goals": [
+            {
+                "minute": "67",
+                "player": "Marcus Rashford",
+                "team": "Man United",
+                "evidence": "GOAL! Celta 0-1 United (Rashford 67)"
+            }
+        ],
+        "red_cards": [
+            {
+                "minute": "87",
+                "player": "Eric Bailly",
+                "team": "Man United",
+                "evidence": "Bailly was sent off for a swipe at former Manchester City striker Guidetti"
+            },
+            {
+                "minute": "88",
+                "player": "Facundo Roncaglia",
+                "team": "Celta Vigo",
+                "evidence": "Roncaglia dismissed for retaliating."
+            }
+        ],
+        "home_manager": "Jose Mourinho",
+        "home_manager_evidence": "\"We were the best team in the first leg but we never kill, we never score goals related to the chances we have.\"",
+        "away_manager": "",
+        "away_manager_evidence": "",
+        "man_of_the_match": "Marouane Fellaini",
+        "man_of_the_match_evidence": "Man of the match - Marouane Fellani (Manchester United)"
+    },
+    {
+        "Home team": "Man United",
+        "Away team": "Bournemouth",
+        "Final score": "1-0",
+        "Ground": "Old Trafford",
+        "goals": [
+            {
+                "minute": "25",
+                "player": "Romelu Lukaku",
+                "team": "Man United",
+                "evidence": "Romelu Lukaku (25) silenced his critics with the winning strike midway through the first-half."
+            }
+        ],
+        "red_cards": [],
+        "home_manager": "Jose Mourinho",
+        "home_manager_evidence": "Jose Mourinho: \"When you lose a match it's important you don't lose two in a row.\"",
+        "away_manager": "Eddie Howe",
+        "away_manager_evidence": "Eddie Howe: \"They have an outstanding goalkeeper who made a number of good saves...\"",
+        "man_of_the_match": "David de Gea",
+        "man_of_the_match_evidence": "Man of the match: David de Gea"
+    },
+    {
+        "Home team": "Man United",
+        "Away team": "Brighton",
+        "Final score": "3-1",
+        "Ground": "Old Trafford",
+        "goals": [
+            {
+                "minute": "19",
+                "player": "Davy Propper",
+                "team": "Brighton",
+                "evidence": "Davy Propper's own goal saw Manchester United take a 2-0 lead in the 19th minute."
+            },
+            {
+                "minute": "",
+                "player": "Andreas Pereira",
+                "team": "Man United",
+                "evidence": "Midfielder Andreas Pereira and striker Marcus Rashford scored either side of a Davy Propper own goal."
+            },
+            {
+                "minute": "",
+                "player": "Marcus Rashford",
+                "team": "Man United",
+                "evidence": "Midfielder Andreas Pereira and striker Marcus Rashford scored either side of a Davy Propper own goal."
+            }
+        ],
+        "red_cards": [],
+        "home_manager": "Ole Gunnar Solskjaer",
+        "home_manager_evidence": "Ole Gunnar Solskjaer described Manchester United's 3-1 win over Brighton as 'their best performance of the season'.",
+        "away_manager": "Graham Potter",
+        "away_manager_evidence": "Brighton manager Graham Potter, also to Match of the Day: 'They deserved to win the game, if you make any mistake they can turn defence into attack so quickly.'",
+        "man_of_the_match": "Fred",
+        "man_of_the_match_evidence": "Man of the match - Fred (Manchester United)"
+    },
+    {
+        "Home team": "Man United",
+        "Away team": "Aston Villa",
+        "Final score": "2-2",
+        "Ground": "Old Trafford",
+        "goals": [
+            {
+                "minute": "N/A",
+                "player": "Jack Grealish",
+                "team": "Aston Villa",
+                "evidence": "Grealish opened the scoring with a peach of a strike."
+            },
+            {
+                "minute": "N/A",
+                "player": "Marcus Rashford",
+                "team": "Man United",
+                "evidence": "Rashford...that was 1-1."
+            },
+            {
+                "minute": "N/A",
+                "player": "Victor Lindel\u00f6f",
+                "team": "Man United",
+                "evidence": "Victor Lindel\u00f6f headed in."
+            },
+            {
+                "minute": "N/A",
+                "player": "Tyrone Mings",
+                "team": "Aston Villa",
+                "evidence": "that was the equaliser."
+            }
+        ],
+        "red_cards": [],
+        "home_manager": "Ole Gunnar Solskj\u00e6r",
+        "home_manager_evidence": "But for Ole Gunnar Solskj\u00e6r the bottom line is that United have won only four of 14 league games this season.",
+        "away_manager": "Dean Smith",
+        "away_manager_evidence": "Smith was left praising the excellent Grealish.",
+        "man_of_the_match": "Jack Grealish",
+        "man_of_the_match_evidence": "Smith was left praising the excellent Grealish."
+    },
+    {
+        "Home team": "Leicester",
+        "Away team": "Norwich",
+        "Final score": "1-1",
+        "Ground": "King Power Stadium",
+        "goals": [
+            {
+                "minute": "25th",
+                "player": "Teemu Pukki",
+                "team": "Norwich",
+                "evidence": "Norwich had taken the lead through Teemu Pukki\u2019s latest ice-cool finish."
+            },
+            {
+                "minute": "37th",
+                "player": "Tim Krul",
+                "team": "Norwich",
+                "evidence": "Jamie Vardy's bullet header was turned into the net by Norwich keeper Tim Krul."
+            }
+        ],
+        "red_cards": [],
+        "home_manager": "Brendan Rodgers",
+        "home_manager_evidence": "Brendan Rodgers says he is not thinking about the growing gap behind league leaders Liverpool.",
+        "away_manager": "Daniel Farke",
+        "away_manager_evidence": "Daniel Farke: \"The goal was a fantastic pass and finish.\"",
+        "man_of_the_match": "Caglar Soyuncu",
+        "man_of_the_match_evidence": "Man of the match - Caglar Soyuncu (Leicester)"
+    },
+    {
+        "Home team": "Man United",
+        "Away team": "Watford",
+        "Final score": "3-0",
+        "Ground": "Old Trafford",
+        "goals": [
+            {
+                "minute": "unknown",
+                "player": "Bruno Fernandes",
+                "team": "Man United",
+                "evidence": "Fernandes took this with the swagger United have missed in recent years: an odd-looking hop straight up in the air sent Foster to his right before he slotted a first goal for United."
+            },
+            {
+                "minute": "unknown",
+                "player": "Anthony Martial",
+                "team": "Man United",
+                "evidence": "What came next was a Martial special... Martial performed a drag-back that left the Watford player a spectator before, from under Foster\u2019s nose, he chipped a third goal."
+            },
+            {
+                "minute": "unknown",
+                "player": "Mason Greenwood",
+                "team": "Man United",
+                "evidence": "Yet Greenwood\u2019s emphatic strike, pin-balling off the frame of the goal, sent United and their fans home even more content."
+            }
+        ],
+        "red_cards": [],
+        "home_manager": "Ole Gunnar Solskj\u00e6r",
+        "home_manager_evidence": "\u201cI hope [we can beat them] because there are four big league games coming up \u2013 Everton, Manchester City, Tottenham and Sheffield United,\u201d Ole Gunnar Solskj\u00e6r said.",
+        "away_manager": "Nigel Pearson",
+        "away_manager_evidence": "while Nigel Pearson\u2019s only adjustment from a draw at Brighton 15 days ago was a preference for Craig Dawson in place of Adrian Mariappa.",
+        "man_of_the_match": "Bruno Fernandes",
+        "man_of_the_match_evidence": "Each have the quality Manchester United require to challenge for a Champions League place, this win lifting them up two places to fifth."
+    },
+    {
+        "Home team": "Norwich",
+        "Away team": "Man United",
+        "Final score": "0-1",
+        "Ground": "Carrow Road",
+        "goals": [
+            {
+                "minute": "75",
+                "player": "Cristiano Ronaldo",
+                "team": "Man United",
+                "evidence": "Cristiano Ronaldo's penalty earned Manchester United a narrow victory over Norwich."
+            }
+        ],
+        "red_cards": [],
+        "home_manager": "Dean Smith",
+        "home_manager_evidence": "Injury, ineligibility and illness forced Norwich boss Dean Smith into five changes to the side that lost at Tottenham last week.",
+        "away_manager": "Ralf Rangnick",
+        "away_manager_evidence": "Ralf Rangnick restored the XI that beat Crystal Palace in his first game in charge last weekend.",
+        "man_of_the_match": "Cristiano Ronaldo",
+        "man_of_the_match_evidence": "Ronaldo rescues United"
+    },
+    {
+        "Home team": "Wolves",
+        "Away team": "Norwich",
+        "Final score": "0-1",
+        "Ground": "Molineux",
+        "goals": [
+            {
+                "minute": "45'+1",
+                "player": "Kenny McLean",
+                "team": "Norwich",
+                "evidence": "Kenny McLean scored a first-half winner as Norwich beat fellow Premier League side Wolves."
+            }
+        ],
+        "red_cards": [],
+        "home_manager": "Bruno Lage",
+        "home_manager_evidence": "Bruno Lages' side could not equalise.",
+        "away_manager": "Dean Smith",
+        "away_manager_evidence": "Dean Smith has galvanised Norwich since taking over in November.",
+        "man_of_the_match": "Kenny McLean",
+        "man_of_the_match_evidence": "Kenny McLean scored a first-half winner as Norwich beat fellow Premier League side Wolves."
+    },
+    {
+        "Home team": "Aston Villa",
+        "Away team": "Norwich",
+        "Final score": "2-0",
+        "Ground": "Villa Park",
+        "goals": [
+            {
+                "minute": "first half",
+                "player": "Ollie Watkins",
+                "team": "Aston Villa",
+                "evidence": "Ollie Watkins put Villa ahead in the first half, capitalising on a slip from Brandon Williams before lashing high into the net."
+            },
+            {
+                "minute": "stoppage time",
+                "player": "Danny Ings",
+                "team": "Aston Villa",
+                "evidence": "Danny Ings added a late goal in stoppage time to add to Norwich's misery."
+            }
+        ],
+        "red_cards": [],
+        "home_manager": "Steven Gerrard",
+        "home_manager_evidence": "Manager Steven Gerrard handed a full debut to 18-year-old England Under-19 midfielder Tim Iroegbunam, who was solid in a holding role.",
+        "away_manager": "Dean Smith",
+        "away_manager_evidence": "Manager Dean Smith said \"plans are already in place\" for their bid to return to the top flight.",
+        "man_of_the_match": "Ollie Watkins",
+        "man_of_the_match_evidence": "Watkins was a livewire all day, volleying just over in the sixth minute and constantly threatening to get in behind."
+    },
+    {
+        "Home team": "Wolves",
+        "Away team": "Norwich",
+        "Final score": "1-1",
+        "Ground": "Molineax",
+        "goals": [
+            {
+                "minute": "37th",
+                "player": "Teemu Pukki",
+                "team": "Norwich",
+                "evidence": "Pukki took full advantage by dribbling into the box and firing a low shot through the Wolves captain's legs."
+            },
+            {
+                "minute": "55th",
+                "player": "Rayan A\u00eft-Nouri",
+                "team": "Wolves",
+                "evidence": "Ait-Nouri cleverly cushioned a header into the far corner."
+            }
+        ],
+        "red_cards": [],
+        "home_manager": "Bruno Lage",
+        "home_manager_evidence": "Lage's team now unable to catch West Ham in seventh.",
+        "away_manager": "Dean Smith",
+        "away_manager_evidence": "Dean Smith said of his Norwich side\u2019s display: 'I enjoyed it, it was a good disciplined performance.'",
+        "man_of_the_match": "Teemu Pukki",
+        "man_of_the_match_evidence": "The Finland international was a thorn in the Wolves defence all afternoon long."
+    },
+    {
+        "Home team": "Man United",
+        "Away team": "Aston Villa",
+        "Final score": "4-2",
+        "Ground": "Old Trafford",
+        "goals": [
+            {
+                "minute": "49'",
+                "player": "Anthony Martial",
+                "team": "Man United",
+                "evidence": "Anthony Martial - 49'"
+            },
+            {
+                "minute": "67'",
+                "player": "Marcus Rashford",
+                "team": "Man United",
+                "evidence": "Marcus Rashford - 67'"
+            },
+            {
+                "minute": "78'",
+                "player": "Bruno Fernandes",
+                "team": "Man United",
+                "evidence": "Bruno Fernandes - 78'"
+            },
+            {
+                "minute": "90'+1'",
+                "player": "Scott McTominay",
+                "team": "Man United",
+                "evidence": "Scott McTominay - 90'+1'"
+            },
+            {
+                "minute": "48'",
+                "player": "Ollie Watkins",
+                "team": "Aston Villa",
+                "evidence": "Ollie Watkins - 48'"
+            },
+            {
+                "minute": "61'",
+                "player": "Diogo Dalot",
+                "team": "Aston Villa",
+                "evidence": "Diogo Dalot - 61' OG"
+            }
+        ],
+        "red_cards": [],
+        "home_manager": "Erik ten Hag",
+        "home_manager_evidence": "Erik ten Hag's side falling behind twice before Bruno Fernandes' deflected strike put them ahead for the first time",
+        "away_manager": "Unai Emery",
+        "away_manager_evidence": "Unai Emery's side had twice led in the tie",
+        "man_of_the_match": "Scott McTominay",
+        "man_of_the_match_evidence": "Scott McTominay puts seal on comeback victory in crazy Carabao Cup tie."
+    },
+    {
+        "Home team": "West Brown",
+        "Away team": "Norwich",
+        "Final score": "2-1",
+        "Ground": "Hawthorns",
+        "goals": [
+            {
+                "minute": "41",
+                "player": "Josh Sargent",
+                "team": "Norwich",
+                "evidence": "Josh Sargent's clinical finish - his second goal in four games - gave Norwich the lead after 41 minutes."
+            },
+            {
+                "minute": "45+1",
+                "player": "Conor Townsend",
+                "team": "West Brom",
+                "evidence": "Conor Townsend curled in a sparkling free-kick in first-half stoppage time."
+            },
+            {
+                "minute": "",
+                "player": "Jed Wallace",
+                "team": "West Brom",
+                "evidence": "Jed Wallace scored what proved to be the winner, when he diverted a cross from Townsend past Angus Gunn."
+            }
+        ],
+        "red_cards": [],
+        "home_manager": "Carlos Corberan",
+        "home_manager_evidence": "Baggies boss Carlos Corberan took the opportunity to bring on Jake Livermore for what could be his final appearance for the club.",
+        "away_manager": "David Wagner",
+        "away_manager_evidence": "Norwich's David Wagner: 'In the second half, we lost our structure. We were not calm enough and we didn't look mature.'",
+        "man_of_the_match": "Conor Townsend",
+        "man_of_the_match_evidence": "Player of the match - Conor Townsend."
+    },
+    {
+        "Home team": "Arsenal",
+        "Away team": "Man United",
+        "Final score": "3-1",
+        "Ground": "Emirates Stadium",
+        "goals": [
+            {
+                "minute": "unknown",
+                "player": "Marcus Rashford",
+                "team": "Man United",
+                "evidence": "Marcus Rashford scored for Man United."
+            },
+            {
+                "minute": "unknown",
+                "player": "Martin \u00d8degaard",
+                "team": "Arsenal",
+                "evidence": "Martin \u00d8degaard scored for Arsenal."
+            },
+            {
+                "minute": "unknown",
+                "player": "Declan Rice",
+                "team": "Arsenal",
+                "evidence": "Declan Rice scored for Arsenal."
+            },
+            {
+                "minute": "unknown",
+                "player": "Gabriel Jesus",
+                "team": "Arsenal",
+                "evidence": "Gabriel Jesus scored for Arsenal."
+            }
+        ],
+        "red_cards": [],
+        "home_manager": "",
+        "home_manager_evidence": "",
+        "away_manager": "",
+        "away_manager_evidence": "",
+        "man_of_the_match": "",
+        "man_of_the_match_evidence": ""
+    },
+    {
+        "Home team": "West Ham",
+        "Away team": "Arsenal",
+        "Final score": "0-6",
+        "Ground": "Olympic Stadium",
+        "goals": [
+            {
+                "minute": "32",
+                "player": "William Saliba",
+                "team": "Arsenal",
+                "evidence": "GOAL! West Ham 0-1 Arsenal (Saliba 32)"
+            },
+            {
+                "minute": "41",
+                "player": "Bukayo Saka",
+                "team": "Arsenal",
+                "evidence": "GOAL! West Ham 0-2 Arsenal (Saka 41 pen)"
+            },
+            {
+                "minute": "44",
+                "player": "Gabriel",
+                "team": "Arsenal",
+                "evidence": "GOAL! West Ham 0-3 Arsenal (Gabriel 44)"
+            },
+            {
+                "minute": "45+2",
+                "player": "Leandro Trossard",
+                "team": "Arsenal",
+                "evidence": "GOAL! West Ham 0-4 Arsenal (Trossard 45+2)"
+            },
+            {
+                "minute": "63",
+                "player": "Bukayo Saka",
+                "team": "Arsenal",
+                "evidence": "GOAL! West Ham 0-5 Arsenal (Saka 63)"
+            },
+            {
+                "minute": "66",
+                "player": "Declan Rice",
+                "team": "Arsenal",
+                "evidence": "GOAL! West Ham 0-6 Arsenal (Rice 66)"
+            }
+        ],
+        "red_cards": [],
+        "home_manager": "David Moyes",
+        "home_manager_evidence": "\u201cLook I don\u2019t mean to criticise Moyes who lifted West Ham from the bottom three,\u201d sys Yash Gupta.",
+        "away_manager": "Mikel Arteta",
+        "away_manager_evidence": "\u201cIt was a brilliant performance - we controlled everything and were really sharp in front of goal.\u201d",
+        "man_of_the_match": "Bukayo Saka",
+        "man_of_the_match_evidence": "\u201cI\u2019m proud to score 50 goals for Arsenal but I can\u2019t be completely happy when I miss chances like I did today.\u201d"
+    },
+    {
+        "Home team": "Chelsea",
+        "Away team": "Man United",
+        "Final score": "4-3",
+        "Ground": "Stamford Bridge",
+        "goals": [
+            {
+                "minute": "6",
+                "player": "Cole Palmer",
+                "team": "Chelsea",
+                "evidence": "Cole Palmer had scored the first to put Chelsea 2-0 up"
+            },
+            {
+                "minute": "99",
+                "player": "Cole Palmer",
+                "team": "Chelsea",
+                "evidence": "his hat-trick goal deflecting in off the United substitute Scott McTominay"
+            },
+            {
+                "minute": "",
+                "player": "Alejandro Garnacho",
+                "team": "Man United",
+                "evidence": "Garnacho to head past Djordje Petrovic on the bounce."
+            },
+            {
+                "minute": "",
+                "player": "Bruno Fernandes",
+                "team": "Man United",
+                "evidence": "Fernandes guided his header home."
+            },
+            {
+                "minute": "",
+                "player": "Conor Gallagher",
+                "team": "Chelsea",
+                "evidence": "Conor Gallagher to sweep past Andr\u00e9 Onana."
+            }
+        ],
+        "red_cards": [],
+        "home_manager": "Mauricio Pochettino",
+        "home_manager_evidence": "Mauricio Pochettino and his players will hope it proves a turning point for them.",
+        "away_manager": "Erik ten Hag",
+        "away_manager_evidence": "the pressure on Erik ten Hag, too, should there have been any further scope for that.",
+        "man_of_the_match": "Cole Palmer",
+        "man_of_the_match_evidence": "Palmer was the shining star, close to unplayable for most of the game."
+    },
+    {
+        "Home team": "Chelsea",
+        "Away team": "Barrow",
+        "Final score": "5-0",
+        "Ground": "Stamford Bridge",
+        "goals": [
+            {
+                "minute": "8'",
+                "player": "Christopher Nkunku",
+                "team": "Chelsea",
+                "evidence": "Nkunku opened the scoring in the eighth minute with a cool finish after a fine chipped pass from Joao Felix."
+            },
+            {
+                "minute": "15'",
+                "player": "Christopher Nkunku",
+                "team": "Chelsea",
+                "evidence": "A low Malo Gusto cross from the right glanced into the bottom left, and it\u2019s a second goal for Christopher Nkunku."
+            },
+            {
+                "minute": "28'",
+                "player": "Paul Farman",
+                "team": "Barrow",
+                "evidence": "A free kick for Chelsea... off the post, and in off the back of the unfortunate Paul Farman."
+            },
+            {
+                "minute": "48'",
+                "player": "Pedro Neto",
+                "team": "Chelsea",
+                "evidence": "Two minutes after the restart Pedro Neto scored his first Chelsea goal by tapping in after Mykhailo Mudryk's pass across goal."
+            },
+            {
+                "minute": "75'",
+                "player": "Christopher Nkunku",
+                "team": "Chelsea",
+                "evidence": "Nkunku completed his hat-trick in the 75th minute after tackling keeper Farman and passing the ball into an empty net."
+            }
+        ],
+        "red_cards": [],
+        "home_manager": "Enzo Maresca",
+        "home_manager_evidence": "Maresca can't play both - Published24 September 2024",
+        "away_manager": "",
+        "away_manager_evidence": "",
+        "man_of_the_match": "Christopher Nkunku",
+        "man_of_the_match_evidence": "Christopher Nkunku scored a hat-trick as Chelsea cruised into the fourth round of the Carabao Cup."
+    },
+    {
+        "Home team": "Man United",
         "Away team": "Brighton",
         "Final score": "4-2",
         "Ground": "Old Trafford",
         "goals": [
             {
-                "minute": "24th",
+                "minute": "24",
                 "player": "Matheus Cunha",
                 "team": "Man United",
                 "evidence": "Cunha kept his cool after some battling play, taking a touch on the edge of the box and sending a precise right-footed effort beyond Bart Verbruggen."
             },
             {
-                "minute": "34th",
+                "minute": "34",
                 "player": "Casemiro",
                 "team": "Man United",
-                "evidence": "Casemiro, whose long-range strike hit Yasin Ayari and wrongfooted Verbruggen."
+                "evidence": "the ball went on to Casemiro, whose long-range strike hit Yasin Ayari and wrongfooted Verbruggen."
             },
             {
-                "minute": "61st",
+                "minute": "61",
                 "player": "Bryan Mbeumo",
                 "team": "Man United",
                 "evidence": "Mbeumo, who squeezed a low shot through Dunk's legs and past Verbruggen at his near post in front of the Stretford End in the 61st minute."
             },
             {
-                "minute": "74th",
+                "minute": "74",
                 "player": "Danny Welbeck",
                 "team": "Brighton",
-                "evidence": "Welbeck's free-kick and teenage substitute Charalampos Kostoulas' stoppage-time header had the hosts wobbling."
+                "evidence": "Welbeck steps up to take the resulting free kick in a central position. He aims for the top-left corner."
             },
             {
-                "minute": "90+6th",
-                "player": "Bryan Mbeumo",
-                "team": "Man United",
-                "evidence": "Mbeumo smashed home his second."
-            },
-            {
-                "minute": "90+3rd",
+                "minute": "90+2",
                 "player": "Charalampos Kostoulas",
                 "team": "Brighton",
-                "evidence": "Kostoulas reducing the deficit in stoppage time as he glanced home a James Milner corner."
+                "evidence": "Kostoulas flicks a header home."
+            },
+            {
+                "minute": "90+7",
+                "player": "Bryan Mbeumo",
+                "team": "Man United",
+                "evidence": "Mbeumo sends a diagonal screamer across Verbruggen and into the top right!"
             }
         ],
         "red_cards": [],
@@ -48,7 +694,7 @@
         "away_manager": "Fabian Hurzeler",
         "away_manager_evidence": "Brighton boss Fabian Hurzeler complained former United striker Welbeck was shoved when shooting by Fernandes.",
         "man_of_the_match": "Bryan Mbeumo",
-        "man_of_the_match_evidence": "A Ruben Amorim pirouette and revolving fist-pump greeted Bryan Mbeumo putting Manchester United 3-0 up."
+        "man_of_the_match_evidence": "Bryan Mbeumo scored twice as United survived a spirited Brighton comeback to make it three wins in a row."
     },
     {
         "Home team": "Man United",
@@ -63,48 +709,42 @@
                 "evidence": "Amad did not track back as often and when he did, the Ivory Coast man...tucked inside Leny Yoro."
             },
             {
-                "minute": "40",
-                "player": "Casemiro",
-                "team": "Man United",
-                "evidence": "the former Chelsea man palmed Casemiro's tame first-half header into his goal."
+                "minute": "46",
+                "player": "Evanilson",
+                "team": "Bournemouth",
+                "evidence": "Evanilson netted within 45 seconds of the restart."
             },
             {
-                "minute": "75",
+                "minute": "52",
+                "player": "Marcus Tavernier",
+                "team": "Bournemouth",
+                "evidence": "Marcus Tavernier curled a wonderful free-kick into the bottom left corner."
+            },
+            {
+                "minute": "78",
                 "player": "Bruno Fernandes",
                 "team": "Man United",
-                "evidence": "Bruno Fernandes following Tavernier's lead by curling his own free-kick home for the equaliser."
+                "evidence": "Bruno will take it...an unstoppable free kick into the far corner."
             },
             {
-                "minute": "77",
+                "minute": "80",
                 "player": "Matheus Cunha",
                 "team": "Man United",
                 "evidence": "Cunha provided it with a calm finish."
             },
             {
-                "minute": "82",
-                "player": "Evanilson",
-                "team": "Bournemouth",
-                "evidence": "a killer Tavernier pass that split the youngsters, and a cool Evanilson finish."
-            },
-            {
                 "minute": "84",
-                "player": "Marcus Tavernier",
-                "team": "Bournemouth",
-                "evidence": "Tavernier then exploited some weak goalkeeping from Lammens to put Bournemouth in front."
-            },
-            {
-                "minute": "90",
                 "player": "Eli Junior Kroupi",
                 "team": "Bournemouth",
-                "evidence": "Kroupi's final flourish ensured they exceeded their previous scoring efforts here."
+                "evidence": "Eli Junior Kroupi struck a leveller six minutes from time."
             }
         ],
         "red_cards": [],
         "home_manager": "Ruben Amorim",
-        "home_manager_evidence": "Amorim claimed he does not need to bolster the defensive ranks so the onus is on him to improve the current ones.",
+        "home_manager_evidence": "Ruben Amorim has staunchly defended his 3-4-3 system.",
         "away_manager": "Andoni Iraola",
-        "away_manager_evidence": "Andoni Iraola said: 'Its a twisted knee \u2013 we have to see.'",
-        "man_of_the_match": "Bruno Fernandes",
-        "man_of_the_match_evidence": "Bruno Fernandes has been involved in eight goals in his last eight Premier League games."
+        "away_manager_evidence": "Andoni Iraola gives his thoughts: 'Difficult to explain \u2013 a nice game, it had everything.'",
+        "man_of_the_match": "",
+        "man_of_the_match_evidence": ""
     }
 ]
